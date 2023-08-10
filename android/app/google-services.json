@@ -1,0 +1,137 @@
+{
+  "project_info": {
+    "project_number": "770374899393",
+    "project_id": "alpha-ecommerce-5dce3",
+    "storage_bucket": "alpha-ecommerce-5dce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770374899393:android:2288fd8ccdefeb343da640",
+        "android_client_info": {
+          "package_name": "com.alpha.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770374899393-5u8dk7erbalb7ql3n1vb2df0s50le2qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha.ecommerce",
+            "certificate_hash": "1aeba2d1b573ebb4e732be87db8056d2df7fafbe"
+          }
+        },
+        {
+          "client_id": "770374899393-f1s7j7oqa7fiq2enk3ae6n6vkq8fpv2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha.ecommerce",
+            "certificate_hash": "7bc60690c3b7437d2c13da6abc0539fe851224c7"
+          }
+        },
+        {
+          "client_id": "770374899393-f51drgpqf5odb30c2kee89ro6vc5j1at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha.ecommerce",
+            "certificate_hash": "bbb87549003a9b610f9a409dd8cee2473cb71c33"
+          }
+        },
+        {
+          "client_id": "770374899393-5d4p85l3hdjfhq51ep5egbngm6sjtn16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp4lo5Zln7jY67yvUUK8Xoj5kOMcrwA1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770374899393-5d4p85l3hdjfhq51ep5egbngm6sjtn16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770374899393:android:43f9a06dc39edae23da640",
+        "android_client_info": {
+          "package_name": "com.alpha_ecommerce.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770374899393-nr5e3q4tl6haerf84pvq8iir4clguucc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha_ecommerce.delivery",
+            "certificate_hash": "7bc60690c3b7437d2c13da6abc0539fe851224c7"
+          }
+        },
+        {
+          "client_id": "770374899393-5d4p85l3hdjfhq51ep5egbngm6sjtn16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp4lo5Zln7jY67yvUUK8Xoj5kOMcrwA1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770374899393-5d4p85l3hdjfhq51ep5egbngm6sjtn16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770374899393:android:01dcc7df5173d9873da640",
+        "android_client_info": {
+          "package_name": "com.alpha_ecommerce.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770374899393-37lg7lgtisg7pfc8b3vtsspf3e9ia4cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha_ecommerce.vendor",
+            "certificate_hash": "7bc60690c3b7437d2c13da6abc0539fe851224c7"
+          }
+        },
+        {
+          "client_id": "770374899393-5d4p85l3hdjfhq51ep5egbngm6sjtn16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp4lo5Zln7jY67yvUUK8Xoj5kOMcrwA1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770374899393-5d4p85l3hdjfhq51ep5egbngm6sjtn16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
